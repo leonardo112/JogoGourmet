@@ -1,0 +1,5 @@
+C:\Users\Paikao\Downloads\JogoGourmet.App.exe
+C:\Users\Paikao\Downloads\JogoGourmet.App.dll
+C:\Users\Paikao\Downloads\JogoGourmet.App.deps.json
+C:\Users\Paikao\Downloads\JogoGourmet.App.runtimeconfig.json
+C:\Users\Paikao\Downloads\JogoGourmet.App.pdb

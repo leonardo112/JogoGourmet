@@ -1,0 +1,14 @@
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\bin\Debug\net7.0\JogoGourmet.Domain.deps.json
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\bin\Debug\net7.0\JogoGourmet.Domain.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\bin\Debug\net7.0\JogoGourmet.Domain.pdb
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.csproj.AssemblyReference.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.Messages.resources
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.csproj.GenerateResource.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.AssemblyInfoInputs.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.AssemblyInfo.cs
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\refint\JogoGourmet.Domain.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\JogoGourmet.Domain.pdb
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.Domain\obj\Debug\net7.0\ref\JogoGourmet.Domain.dll

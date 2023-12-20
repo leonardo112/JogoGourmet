@@ -1,0 +1,17 @@
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\bin\Release\net7.0\JogoGourmet.App.exe
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\bin\Release\net7.0\JogoGourmet.App.deps.json
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\bin\Release\net7.0\JogoGourmet.App.runtimeconfig.json
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\bin\Release\net7.0\JogoGourmet.App.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\bin\Release\net7.0\JogoGourmet.App.pdb
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.csproj.AssemblyReference.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.Messages.resources
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.csproj.GenerateResource.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.AssemblyInfoInputs.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.AssemblyInfo.cs
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.csproj.CoreCompileInputs.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\refint\JogoGourmet.App.dll
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.pdb
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\JogoGourmet.App.genruntimeconfig.cache
+C:\Users\Paikao\Documents\Nova pasta (6)\JogoGourmet\JogoGourmet\JogoGourmet.App\obj\Release\net7.0\ref\JogoGourmet.App.dll
